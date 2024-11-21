@@ -1,1 +1,2 @@
-!()[ETI_Webinar_Series-Hybrid_ Quantum_Classical_Computing_for_Energy_Systems_Management.mp4]
+
+https://github.com/djzts/UHvideo/blob/04ad6e89169f22ef801d99e21503d13573bb1f1b/ETI_Webinar_Series-Hybrid_%20Quantum_Classical_Computing_for_Energy_Systems_Management.mp4
