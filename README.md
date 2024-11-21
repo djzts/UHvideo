@@ -1,1 +1,1 @@
-![][ETI_Webinar_Series-Hybrid_ Quantum_Classical_Computing_for_Energy_Systems_Management.mp4]
+!()[ETI_Webinar_Series-Hybrid_ Quantum_Classical_Computing_for_Energy_Systems_Management.mp4]
